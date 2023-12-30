@@ -26,3 +26,16 @@ virtual space using pre-recorded videos of teachers from around the world.
 * HTML
 * Font Awesome
 * JSON
+
+## Screenshots
+* HOME PAGE(containing login and signup pages)
+  ![Screenshot (1356)](https://github.com/AmanS09/3D-zoo/assets/123250285/a74f3e2f-55ed-4d1f-926f-975790eca4d0)
+
+* MAIN PAGE
+  ![Screenshot (1358)](https://github.com/AmanS09/3D-zoo/assets/123250285/bec87589-e4ee-4839-9bbe-ffd05e49c255)
+
+* GALLERY
+  ![Screenshot (1360)](https://github.com/AmanS09/3D-zoo/assets/123250285/ff3f9b1c-e6ad-4f6d-8e47-306b1d723771)
+
+*3D-IMPLEMENTATION
+ https://github.com/AmanS09/3D-zoo/assets/123250285/10a9374b-57f6-48cf-9e9f-9f74cc98ea86
