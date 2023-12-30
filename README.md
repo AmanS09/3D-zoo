@@ -26,4 +26,3 @@ virtual space using pre-recorded videos of teachers from around the world.
 * HTML
 * Font Awesome
 * JSON
-![Uploading Screenshot (1356).png…]()
