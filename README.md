@@ -24,7 +24,6 @@ virtual space using pre-recorded videos of teachers from around the world.
 
 * JavaScript
 * HTML
-* Font Awesome![hello2](https://github.com/AmanS09/3D-zoo/assets/123250285/5d30e27c-e301-4a27-8d6d-d9cfcf448e78)
-
+* Font Awesome
 * JSON
 ![Uploading Screenshot (1356).png…]()
